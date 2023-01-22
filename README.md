@@ -1,3 +1,14 @@
+
+## Some Overview of the Image:
+![ss1](https://user-images.githubusercontent.com/79037459/213914709-87f2bfa5-70ba-43bb-9865-c445972bdd90.jpg)
+![image](https://user-images.githubusercontent.com/79037459/213914706-1a60a137-4c13-4a42-8241-9b4fb3b53f17.png)
+
+
+This app is build using Chakra ui to provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
+here are the link
+(https://react-video-app-parag-dwn.vercel.app)
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
